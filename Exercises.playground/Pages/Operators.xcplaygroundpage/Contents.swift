@@ -43,6 +43,25 @@
  
  */
 // Answer Question 1 below
+// 1
+var partTimeEarnings : Double = 22.5 * 1.5
+print (partTimeEarnings)
+
+// 2
+var partTimeEarnings2 = partTimeEarnings + 20
+print (partTimeEarnings2)
+
+// 3
+var partTimeEarnings3 = partTimeEarnings2 / 2
+print (partTimeEarnings3)
+
+//4
+var partTimeEarnings4 =  25 * 4 + partTimeEarnings3
+print (partTimeEarnings4)
+
+// 5
+var partTimeEarnings5 = partTimeEarnings4 - 50
+print (partTimeEarnings5)
 
 
 /*:
@@ -56,6 +75,7 @@
 // Answer Question 2 below
 6 + 4 * 5 - 2
 
-
-
+var substract = (5-2)
+var multiply = 4 * substract
+var add = 6 + multiply
 //: [Next](@next)

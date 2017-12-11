@@ -82,7 +82,7 @@ print ( "you don't have to go through and update code where that constant is use
  
  */
 // Answer Question 5 below
-
+let randomDemand = 1000000
 
 
 
@@ -106,6 +106,11 @@ print ( "you don't have to go through and update code where that constant is use
  
  */
 // Answer Question 6 below
+var year = 2017
+let someText = "constant"
+// year = someText
+print ("String cannot be equal to Int")
+
 
 
 /*:
@@ -118,7 +123,9 @@ print ( "you don't have to go through and update code where that constant is use
 // Answer Question 7 below
 
 
+print ( "Type-safe languages encourage or require you to be clear about the types of values your code can work with. For example, if part of your code expects an Int, you can't pass it a Double or a String" )
 
-
+    
+   
 //: [Next](@next)
 
