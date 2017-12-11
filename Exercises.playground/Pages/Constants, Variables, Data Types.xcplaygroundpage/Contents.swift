@@ -35,6 +35,10 @@
  
  */
 // Answer Question 1 below
+let name = "Sam"
+let surname = "Winchester"
+var currentGrade = 90
+let novemberReportCard = 88
 
 /*:
  ### Question 2
@@ -47,6 +51,8 @@
  
  */
 // Answer Question 2 below
+let myAge : Int = 17
+let therAge : Double = 40.0
 
 
 /*:
@@ -66,7 +72,7 @@
  */
 // Answer Question 4 below
 
-
+print ( "you don't have to go through and update code where that constant is used all over the place" )
 /*:
  ### Question 5
  
@@ -76,6 +82,10 @@
  
  */
 // Answer Question 5 below
+
+
+
+
 
 /*:
  ### Question 6
